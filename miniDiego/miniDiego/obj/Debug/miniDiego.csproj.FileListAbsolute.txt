@@ -1,0 +1,15 @@
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\bin\Debug\miniDiego.exe.config
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\bin\Debug\miniDiego.exe
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\bin\Debug\miniDiego.pdb
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.csprojAssemblyReference.cache
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\MainWindow.g.cs
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\App.g.cs
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego_MarkupCompile.cache
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego_MarkupCompile.lref
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\MainWindow.baml
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.g.resources
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.Properties.Resources.resources
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.csproj.GenerateResource.cache
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.csproj.CoreCompileInputs.cache
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.exe
+C:\Users\DAVID.LAPTOP-R39HS99T.000\Desktop\proyectos\miniDiego\miniDiego\obj\Debug\miniDiego.pdb
